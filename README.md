@@ -1,10 +1,9 @@
-# Tinder
-Tinder Swag
+# PETinder
+A Tinder for Pets Adoption.
 
-# Demo 
-https://www.youtube.com/watch?v=FTGa8Tjwfi8
-
-# Launch Tinder
+# Launch PETinder
 - Clone
 - Npm install in terminal
 - Run on IOS simulator or Android emulator
+
+# Credits for base project (Tinder project): VctrySam/Tinder
